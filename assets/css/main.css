@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.font{
+    display: center;
+    margin: 10%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    position:fixed;
+    left: 0; 
+    bottom: 0;
+}
